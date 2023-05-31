@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="showCaseArtist">Paul Thorsteinson</string>
+    <string name="geishaDescription">A Golden Geisha</string>
+    <string name="geisha2Description">A Black and White Geisha on a red background</string>
+    <string name="jack">A class scene from The Nightmare Before Christmas</string>
+    <string name="key">A key with a foreboding presence inspired by comic book character Dream</string>
+    <string name="kincaid">The Garden of Prayer\n(rework of Artist William Kincaid)</string>
+    <string name="morte">Women celebrating Dia de Muertos. (The Day of the Dead)</string>
+    <string name="octopus">A golden Octopus</string>
+    <string name="seattlebot">City scape of Seattle with overlay of his robot tattoo.</string>
+    <string name="seattlescape">An apocalyptic perspective of the Seattle skyline</string>
+    <string name="tiger">An asian inspired tiger</string>\>
+    <string name="treeleaf">A tree with a cryptic message engraved on one of its few remaining leaves</string>
+    <string name="tribalfairy">A fairy inspired by Native American art holding their child</string>
+    <string name="whale">Dream Big</string>
+
+
+
+
+
+</resources>
